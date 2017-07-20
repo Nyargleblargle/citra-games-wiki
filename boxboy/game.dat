@@ -1,5 +1,5 @@
 title = "BoxBoy!"
-description = "Puzzle Platformer developed by HAL Laboratory and published by Nintendo"
+description = "Puzzle Platformer developed by HAL Laboratory and published by Nintendo. Players control Qbby, a square-shaped character who can produce a string of connected boxes. The boxes are used to overcome obstacles in stages that Qbby must be guided through."
 needs_system_files = true
 needs_shared_font = true
 game_type = "eshop"
@@ -15,6 +15,6 @@ compatibility = "0"
 date = "2017-07-19"
 version = "HEAD-2f625f2"
 cpu = "Intel Core i7"
-gpu = "Radeon Pro 450 "
+gpu = "Radeon Pro 450"
 os = "macOS Sierra 10.12.5"
 author = "Nyargleblargle"
